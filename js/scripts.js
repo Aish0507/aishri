@@ -1,6 +1,6 @@
 /*
    
-    Template Name : DevBlog - Personal Blog Template
+    Template Name : Aishvarya - Personal Blog
     Author : UiPasta Team
     Website : http://www.uipasta.com/
     Support : http://www.uipasta.com/support/
