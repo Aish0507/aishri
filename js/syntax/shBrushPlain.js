@@ -9,7 +9,7 @@
  * 2.1.382 (June 24 2010)
  * 
  * @copyright
- * Copyright (C) 2004-2009 Alex Gorbatchev.
+ * Copyright (C) 2004-2009 Aishvarya.
  *
  * @license
  * This file is part of SyntaxHighlighter.
