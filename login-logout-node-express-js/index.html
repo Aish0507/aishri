@@ -245,7 +245,7 @@
 
                                     var express = require('express'),
                                         router = express.Router(),
-                                        signup = require('../models/users/login.js');
+                                        login = require('../models/users/login.js');
 
                                     router.post('/login', function(req, res) {
                                       login.loginUser(req, res, function(err, data) {
